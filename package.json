@@ -1,0 +1,35 @@
+{
+  "name": "@keval17-wq/ai-chat-support-mailer",
+  "version": "1.0.0",
+  "description": "A niche SDK for sending AI-drafted support emails to a designated inbox.",
+  "main": "ai-chat-support-mailer.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "resend",
+    "support",
+    "email",
+    "chat",
+    "mailer",
+    "node",
+    "connector"
+  ],
+  "author": "keval17-wq",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keval17-wq/ai-chat-support-mailer.git"
+  },
+  "homepage": "https://github.com/keval17-wq/ai-chat-support-mailer#readme",
+  "dependencies": {
+    "openai": "^4.24.1",
+    "resend": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
